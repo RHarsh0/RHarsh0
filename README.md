@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rharsh0&label=Profile%20views&color=0e75b6&style=flat" alt="rharsh0" /> </p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ape5m45Q1V2ab420OO5UcZQGg6G7Iiam/view?usp=sharing)
--  Know about my Works[Portfolio](https://RHarsh0.github.io)
+-  Know about my Works [Portfolio](https://RHarsh0.github.io)
 - ⚡ Fun fact **I am really fond of travelling.**
 
 <h3 align="left">Connect with me:</h3>
