@@ -20,3 +20,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RHarsh0&theme=highcontrast&border_radius=5.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RHarsh0&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
