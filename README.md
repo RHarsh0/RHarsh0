@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Rai</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img src ="https://github.com/fw23-0277/fw23-0277/raw/main/bg-github.jpg">
-	Rupesh Kumar Sinha Rupesh0913
+	
 A Java Full Stack Web Developer and a highly passionate, and hardworking fresher looking for an opportunity to work in a challenging environment
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rharsh0&label=Profile%20views&color=0e75b6&style=flat" alt="rharsh0" /> </p>
 
