@@ -1,4 +1,4 @@
-                                                                                            # 💫 About Me:
+                                  # 💫 About Me:
 Hi 👋, I'm Harsh Rai<br>A passionate Java Backend Developer with a deep love for crafting robust and scalable web applications. I thrive on turning complex ideas into elegant, efficient, and maintainable code.
 
 
