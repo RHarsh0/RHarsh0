@@ -1,6 +1,7 @@
-                                  # 💫 About Me:
+# 💫 About Me:
 Hi 👋, I'm Harsh Rai<br>A passionate Java Backend Developer with a deep love for crafting robust and scalable web applications. I thrive on turning complex ideas into elegant, efficient, and maintainable code.
 
+![Image](https://camo.githubusercontent.com/e7082f434f947ddd0f714f124a5d9eb8ee26555d744c2b5e79d2b16f19aa967d/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f3230302e776562703f6369643d65636630356534376c316168786e64736575327576626977346132627132746864367535396e38313461676b726c6633267269643d3230302e776562702663743d67)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-rai-86a828172/) 
